@@ -1,4 +1,4 @@
-## Full stack Ecommerce
+## Full stack Elearning
 
 ### made with Next.js and tailwindcss (FrontEnd)
 
